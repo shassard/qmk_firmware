@@ -1,0 +1,5 @@
+SRC += muse.c
+
+AUTO_SHIFT_ENABLE = yes
+FORCE_NKRO = yes
+DEBOUNCE = 20
